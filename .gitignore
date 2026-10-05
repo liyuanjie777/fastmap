@@ -1,0 +1,25 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 编译和打包目录
+build/
+dist/
+wheelhouse/
+
+# C++ 编译产物
+*.so
+*.so.*
+*.o
+*.a
+*.dll
+*.dylib
+
+# 本地编辑器配置
+.vscode/
+.idea/
